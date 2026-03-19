@@ -1,7 +1,7 @@
 # Cell2location: Spatial Mapping of Mouse and Human Glioblastoma
 
 **DS 596 Special Topics: Learning from Large-scale Biological Data**  
-**Researchers:** — Vaidehi Gupta, Chloe Ploss, Addison Yam  
+**Researchers:** Vaidehi Gupta, Chloe Ploss, & Addison Yam  
 **Based on:** Kleshchevnikov et al. (2022), *Nature Biotechnology*
 
 ---
